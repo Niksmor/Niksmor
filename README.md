@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nikita </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
-<h3 align="center">QA ingeneer nad Python writer, also learning new about full-stack developing</h3>
-
+<h3 align="center">QA ingeneer and Python writer, also learning new about full-stack developing</h3>
+[Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 <!--
 **Niksmor/Niksmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
