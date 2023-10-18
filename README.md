@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nikita </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
 <h3 align="center">QA ingeneer and Python writer, also learning new about full-stack developing</h3>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?niksmormadushandhanushka)](https://github.com/madushadhanushka/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?niksmor=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
 
 
 Here are some ideas to get you started:
