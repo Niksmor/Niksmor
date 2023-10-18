@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nikita </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
 <h3 align="center">QA ingeneer and Python writer, also learning new about full-stack developing</h3>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?niksmorKnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?niksmor=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 **Niksmor/Niksmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
