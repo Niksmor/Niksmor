@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Nikita</a> 
+<h1 align="center">Hi there, I'm Nikita </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student</h3>
+<h3 align="center">QA ingeneer nad Python writer, also learning new about full-stack developing</h3>
 
 <!--
 **Niksmor/Niksmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
